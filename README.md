@@ -1,6 +1,8 @@
 # Software-Engineering
 This repository provides exercises for practicing software engineering techniques, including version control, code review, unit testing with Python, continuous integration, and agile methodologies.
 
+<img src = "https://static.vecteezy.com/system/resources/previews/000/180/409/original/software-engineers-vector.png" height = "500px" width = "100%">
+
 ## Python
 
 Python is a high-level, interpreted programming language known for its simplicity and versatility. It is widely used in software engineering for tasks such as unit testing, code analysis, and automation. The `pytest` framework, used in this repository, is a popular testing tool in the Python ecosystem for writing simple and scalable test cases.
