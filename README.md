@@ -15,13 +15,11 @@ Git is a distributed version control system that tracks changes to files and all
 
 ### 1. Unit Testing with pytest
 
-**Description:**  
-This experiment focuses on writing and executing unit tests for Python functions using the pytest framework. You will cover various test cases and assertions to ensure the correctness and reliability of your code.
+**Description:** This experiment focuses on writing and executing unit tests for Python functions using the pytest framework. You will cover various test cases and assertions to ensure the correctness and reliability of your code.
 
 ### 2. Version Control with Git
 
-**Description:**  
-This experiment involves practicing basic Git operations such as repository creation, file addition, committing changes, and pushing to a remote repository. It helps in understanding version control fundamentals and collaborative workflows.
+**Description:** This experiment involves practicing basic Git operations such as repository creation, file addition, committing changes, and pushing to a remote repository. It helps in understanding version control fundamentals and collaborative workflows.
 
 ## Additional Resources
 
