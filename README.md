@@ -10,27 +10,18 @@ Python is a high-level, interpreted programming language known for its simplicit
 **pytest**  
 `pytest` is a Python-based testing framework that simplifies writing small to complex test cases. It supports the development of unit tests by providing mechanisms for writing assertions, handling test fixtures, and generating test reports. Its ability to scale from simple functions to complex applications makes it ideal for ensuring code reliability and correctness.
 
----
-
 **Git**  
 Git is a distributed version control system that tracks changes to files and allows multiple people to collaborate on a project. It enables users to manage and coordinate changes to the source code, ensuring that different versions of the code are maintained efficiently. Key operations include creating repositories, committing changes, and pushing to remote repositories.
 
----
 
 **Sphinx and MkDocs**  
 Sphinx and MkDocs are documentation generation tools designed to convert Python code comments (docstrings) into rich, accessible HTML documentation. Sphinx supports automatic API documentation and extensive formatting features, while MkDocs emphasizes simplicity and markdown-based writing. Both tools are used to create well-organized and professional documentation for software projects.
 
----
-
 **unittest.mock**  
 The `unittest.mock` module in Python allows for replacing parts of a system under test with mock objects to simulate real-world behaviors. This technique is useful in unit testing when isolating the function under test by removing dependencies on external components or systems, ensuring that tests remain focused and independent.
 
----
-
 **dependency-injector**  
 `dependency-injector` is a Python framework for implementing dependency injection, a design pattern that decouples the creation of dependencies from their usage. By injecting dependencies into objects rather than hard-coding them, this technique promotes flexibility, testability, and modularity in software design.
-
----
 
 **GitHub Actions / Travis CI**  
 GitHub Actions and Travis CI are continuous integration (CI) tools that automate the building and testing of code whenever changes are pushed to a repository. CI pipelines ensure that code quality is maintained by running tests automatically after each commit, allowing teams to detect and fix errors early in the development process.
