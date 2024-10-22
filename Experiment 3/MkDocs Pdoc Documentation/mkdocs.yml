@@ -1,0 +1,7 @@
+site_name: My Project Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - My Module: my_module.html
