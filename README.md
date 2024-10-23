@@ -69,7 +69,7 @@ Software-Engineering/
 │   ├── Reference Documents/ 📚                  # Additional reference materials or readings related to Sphinx and MkDocs.
 │   │   └── additional_readings.md               # Contains further documentation regarding Sphinx and MkDocs.
 │   ├── Experiment Output Docstring Documentation # Contains the output and generated documentation for Experiment 3.
-
+│   ├── README.md 📝    #  Contains the Documentation for this folder
 │
 ├── Experiment 4/ 💻
 │   └── Mocking.ipynb                    # Jupyter notebook for mocking exercises.
