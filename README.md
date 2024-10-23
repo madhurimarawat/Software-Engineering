@@ -127,13 +127,6 @@ Software-Engineering/
 
 ---
 
-## Additional Resources
-
-- **Detailed Documentation:** A Word document explaining each command and step used in the experiments.
-- **Output Document:** A document showcasing the output and results from the experiments.
-
----
-
 ## Thanks for Visiting 😄
 
 - Drop a 🌟 if you find this repository useful.<br><br>
