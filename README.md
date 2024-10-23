@@ -64,7 +64,7 @@ Software-Engineering/
 │   ├── Sphinx Docstring Documentation/          # Documentation generated automatically using Sphinx.
 │   ├── Docstring Documentation/ 📝              # Contains docstring documentation in markdown format.
 │   │   └── docstrings.md                        # Markdown file containing docstrings.
-│   ├── Output Docs/                             # Word file containing the output from MkDocs and Pdoc tools.
+│   ├── Output/ 📊                              # Word file containing the output from MkDocs and Pdoc tools.
 │   │   └── Experiment 3 Output.docx            # Consolidated output for Experiment 3.
 │   ├── Reference Documents/ 📚                  # Additional reference materials or readings related to Sphinx and MkDocs.
 │   │   └── additional_readings.md               # Contains further documentation regarding Sphinx and MkDocs.
