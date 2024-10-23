@@ -29,7 +29,7 @@ GitHub Actions and Travis CI are continuous integration (CI) tools that automate
 
 ---
 
-Directory Structure 📂
+## Directory Structure 📂
 
 This repository **Software-Engineering** organizes various experiments related to software engineering practices, each identified by its experiment number. Each experiment contains subfolders for source code, documentation, and output files. For instance, Experiment 1 includes Python source and test code using `pytest`, alongside documentation that explains the testing methodology and a summary of the output. Similarly, Experiment 2 focuses on Git operations, with relevant text files and output documentation.
 
