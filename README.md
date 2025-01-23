@@ -147,14 +147,14 @@ Identify and refactor code snippets to improve code quality, readability, and pe
 
 Set up a basic continuous integration (CI) pipeline using tools like Travis CI or GitHub Actions. You can refer to additional resources in the [Learning Travis CI Repository](https://github.com/madhurimarawat/Learning-Travis-CI) and [Learning GitHub Actions Repository](https://github.com/madhurimarawat/Learning-GitHub-Actions-CI).
 
-### 8. [Agile Sprint Planning]([https://github.com/madhurimarawat/Agile-Sprint-and-Iris-Data-Explore](https://github.com/madhurimarawat/Software-Engineering/tree/main/Experiment%208)
+### 8. [Agile Sprint Planning](https://github.com/madhurimarawat/Software-Engineering/tree/main/Experiment%208)
  
 Conduct a simulated sprint planning session following agile principles, where students break down user stories into tasks, estimate their effort, and allocate them for a sprint. This exercise emphasizes collaboration, clear task definitions, and effective time management, preparing participants for real-world agile practices in software development.
 
 **Related Repositories:**  
 - [Agile-Sprint-and-Iris-Data-Explorer](https://github.com/madhurimarawat/Agile-Sprint-and-Iris-Data-Explorer)
 
-### 9. [Code Review Automation]https://github.com/madhurimarawat/Software-Engineering/tree/main/Experiment%209)
+### 9. [Code Review Automation](https://github.com/madhurimarawat/Software-Engineering/tree/main/Experiment%209)
 
 Integrate a code quality analysis tool like CodeFactor or Codacy with GitHub to automatically analyze code changes and provide feedback on code style, complexity, and potential issues. This exercise helps students understand the importance of automated code reviews for maintaining code quality and streamlining the development workflow.
 
